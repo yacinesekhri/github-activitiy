@@ -16,7 +16,7 @@ A simple command-line interface (CLI) to fetch and display the recent activity o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/github-activity-cli.git
+   git clone https://github.com/yacinesekhri/github-activitiy.git
    cd github-activity
 Install dependencies (if any):
 
